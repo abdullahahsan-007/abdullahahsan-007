@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Abdullah</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Abdullah+Ahsan;Flutter+%7C+Firebase+%7C+Frontend+Dev;Clean+UI%2FUX+Lover;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
 <h3 align="center">🚀 Flutter & Frontend Developer | Firebase Enthusiast</h3>
 
 <p align="center">
@@ -38,13 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
----
-
-### 🎯 Goals for 2025
-- ✅ Launch at least 3 Flutter apps
-- ✅ Contribute to open source
-- 🚀 Learn TypeScript and Next.js
-- 🧠 Improve UI/UX design skills with Figma and advanced animations
 
 ---
 
